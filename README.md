@@ -1,5 +1,5 @@
 # Unscripted
-### Your life. One scene at a time.
+### Every day deserves a frame.
 
 > A personal visual diary that turns your daily moments into silent film scenes. Every 7 entries automatically becomes a 1-minute cinematic episode of your life.
 
