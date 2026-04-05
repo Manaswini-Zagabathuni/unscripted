@@ -7,13 +7,13 @@
 
 ##  Features
 
-- **One moment a day** — no journaling pressure, just one sentence
-- **Silent film aesthetic** — every entry becomes a vintage cinematic scene
-- **AI-generated illustrations** — powered by Pollinations.AI (completely free)
-- **Weekly episodes** — every 7 scenes auto-stitch into a 1-minute episode
-- **10 rotating daily prompts** — never the same question twice in a row
-- **Fully private** — everything stored in your browser, no backend
-- **Free to use** — no subscription, no paywall
+- **One moment a day** - no journaling pressure, just one sentence
+- **Silent film aesthetic** - every entry becomes a vintage cinematic scene
+- **AI-generated illustrations** - powered by Pollinations.AI (completely free)
+- **Weekly episodes** - every 7 scenes auto-stitch into a 1-minute episode
+- **10 rotating daily prompts** - never the same question twice in a row
+- **Fully private** - everything stored in your browser, no backend
+- **Free to use** - no subscription, no paywall
 
 ---
 
@@ -104,17 +104,17 @@ unscripted/
 
 ##  Important Notes
 
-- Never commit your `.env` file — it's already protected by `.gitignore`
+- Never commit your `.env` file - it's already protected by `.gitignore`
 - Keep your repository **private** if your API key is anywhere in the source
-- Pollinations.AI image generation takes **20–60 seconds** — this is normal
-- All diary data is stored in **your browser only** — clearing browser data will erase entries
+- Pollinations.AI image generation takes **20-60 seconds** - this is normal
+- All diary data is stored in **your browser only** - clearing browser data will erase entries
 
 ---
 
 ##  Future Ideas
 
 - [ ] Export diary as a downloadable PDF zine
-- [ ] Year in review — all 365 scenes in one scroll
+- [ ] Year in review - all 365 scenes in one scroll
 - [ ] Custom art styles (watercolor, pixel art, ink sketch)
 - [ ] Mobile app version
 
@@ -123,9 +123,9 @@ unscripted/
 ## Credits
 
 Built with:
-- [Claude API](https://anthropic.com) — AI scene writing
-- [Pollinations.AI](https://pollinations.ai) — free AI image generation
-- [React](https://react.dev) + [Vite](https://vitejs.dev) — frontend framework
+- [Claude API](https://anthropic.com) - AI scene writing
+- [Pollinations.AI](https://pollinations.ai) - free AI image generation
+- [React](https://react.dev) + [Vite](https://vitejs.dev) - frontend framework
 
 ---
 
