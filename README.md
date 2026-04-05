@@ -1,11 +1,11 @@
-# 🎬 Unscripted
+# Unscripted
 ### Your life. One scene at a time.
 
 > A personal visual diary that turns your daily moments into silent film scenes. Every 7 entries automatically becomes a 1-minute cinematic episode of your life.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **One moment a day** — no journaling pressure, just one sentence
 - **Silent film aesthetic** — every entry becomes a vintage cinematic scene
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎥 How It Works
+##  How It Works
 
 ```
 You type a moment
@@ -26,14 +26,14 @@ Claude AI writes a cinematic scene title + image prompt
         ↓
 Pollinations.AI generates a vintage illustrated image
         ↓
-Saved to your diary with the date 🎞️
+Saved to your diary with the date
         ↓
 Every 7 entries → automatic 1-minute silent film episode
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | What | How | Cost |
 |------|-----|------|
@@ -45,7 +45,7 @@ Every 7 entries → automatic 1-minute silent film episode
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 ```bash
@@ -73,7 +73,7 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 unscripted/
@@ -91,7 +91,7 @@ unscripted/
 
 ---
 
-## 📖 Pages
+##  Pages
 
 | Page | Description |
 |------|-------------|
@@ -102,7 +102,7 @@ unscripted/
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 - Never commit your `.env` file — it's already protected by `.gitignore`
 - Keep your repository **private** if your API key is anywhere in the source
@@ -111,7 +111,7 @@ unscripted/
 
 ---
 
-## 🔮 Future Ideas
+##  Future Ideas
 
 - [ ] Export diary as a downloadable PDF zine
 - [ ] Year in review — all 365 scenes in one scroll
@@ -120,9 +120,9 @@ unscripted/
 
 ---
 
-## 📜 Credits
+## Credits
 
-Built with ❤️ using:
+Built with:
 - [Claude API](https://anthropic.com) — AI scene writing
 - [Pollinations.AI](https://pollinations.ai) — free AI image generation
 - [React](https://react.dev) + [Vite](https://vitejs.dev) — frontend framework
