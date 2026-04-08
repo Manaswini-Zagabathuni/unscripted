@@ -4,7 +4,7 @@
 > A personal visual diary that turns your daily moments into silent film scenes. Every 7 entries automatically becomes a 1-minute cinematic episode of your life.
 
 ---
-
+ 
 ##  Features
 
 - **One moment a day** - no journaling pressure, just one sentence
